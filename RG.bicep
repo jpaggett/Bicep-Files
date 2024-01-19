@@ -1,3 +1,6 @@
+/*
+  This script creates a Resource Group using Bicep.
+*/
 targetScope = 'subscription'
 
 @description('Location for where the resource is')
